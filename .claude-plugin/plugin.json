@@ -1,0 +1,14 @@
+{
+  "name": "israeli-car-check",
+  "displayName": "בדיקת רכב יד שנייה",
+  "version": "1.0.0",
+  "description": "בדיקת רכב יד שנייה בישראל לפי מספר רישוי, מנתוני משרד התחבורה: רישום, טסט, קילומטרים, בעלויות וקריאות לתיקון בטיחותי.",
+  "author": {
+    "name": "Aviv Alon",
+    "url": "https://github.com/avivalon445"
+  },
+  "homepage": "https://github.com/avivalon445/israeli-car-check",
+  "repository": "https://github.com/avivalon445/israeli-car-check",
+  "license": "MIT",
+  "keywords": ["israel", "car", "data.gov.il", "vehicle"]
+}

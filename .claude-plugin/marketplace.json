@@ -1,0 +1,16 @@
+{
+  "name": "israeli-car-check",
+  "description": "בדיקת רכב יד שנייה בישראל לפי מספר רישוי, מנתוני משרד התחבורה.",
+  "owner": {
+    "name": "Aviv Alon",
+    "url": "https://github.com/avivalon445"
+  },
+  "plugins": [
+    {
+      "name": "israeli-car-check",
+      "displayName": "בדיקת רכב יד שנייה",
+      "source": "./",
+      "description": "בדיקת רכב יד שנייה בישראל לפי מספר רישוי, מנתוני משרד התחבורה: רישום, טסט, קילומטרים, בעלויות וקריאות לתיקון בטיחותי."
+    }
+  ]
+}

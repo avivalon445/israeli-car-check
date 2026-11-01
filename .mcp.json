@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datagov-il": {
+      "type": "http",
+      "url": "https://gateway.pipeworx.io/datagov-il/mcp"
+    }
+  }
+}
